@@ -1,0 +1,8 @@
+The best practice workflow seems to be:
+1. fork a repo of interest on github.  This will clone the repo on your github with 
+reference to your username.  
+2. copy the repo link to clone the repo on your local machine.  
+2.5.  suppose you could copy the link to clone the original repo and then make a github repo
+and push to there?
+3. make any branches/changes and push to github repo.  
+4. from there can make a pull request to the original repo / admin.  
