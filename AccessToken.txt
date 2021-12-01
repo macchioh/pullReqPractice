@@ -1,0 +1,9 @@
+Since Aug 2021, Github no longer uses user passwords to validate remote pushes.  
+
+You now need to use a personal access token.  A token can be generated on Github's site under
+'Developer Settings'.  Then when setting up the remote on the CLI, use this url:
+
+https://<TOKEN>@github.com/<USERNAME>/<REPONAME>.github
+
+git add remote origin <url>
+
